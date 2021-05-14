@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">First Project</string>
-    <string name="s_tvHedar">We teach counting up to 10</string>
-    <string name="_10_steps">10 steps</string>
+    <string name="s_tvHedar">Обучаем счету до 10</string>
+    <string name="_10_steps">10 шагов</string>
     <string name="start">START</string>
     <string name="_1">1</string>
     <string name="_3">3</string>
