@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s_tvHedar">Обучаем счету до 10</string>
+    <string name="_10_steps">шагов</string>
+    <string name="start">START</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="del">стереть</string>
+    <string name="answer">ответ</string>
+    <string name="countAnswer">Число не может быть больше трех цифр</string>
+    <string name="gameOver">Игра окончена</string>
+    <string name="ehu">Молодец!</string>
+    <string name="correct_answer">Павильный ответ, Продолжай!</string>
+    <string name="wrong">Ты ошибся. Попробуй снова.</string>
+    <string name="еnter_number">Введи число и попробуй снова</string>
+</resources>

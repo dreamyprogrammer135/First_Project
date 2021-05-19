@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">First Project</string>
+    <string name="s_tvHedar">We teach counting up to 10</string>
+    <string name="_10_steps">steps</string>
+    <string name="start">START</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="del">del</string>
+    <string name="answer">answer</string>
+    <string name="countAnswer">The number cannot be more than three digits</string>
+    <string name="gameOver">Gamme over</string>
+    <string name="ehu">Attaboy!</string>
+    <string name="correct_answer">Correct answer, Go ahead!</string>
+    <string name="wrong">You were wrong. Try again.</string>
+    <string name="еnter_number">Enter the number and try again</string>
 </resources>
